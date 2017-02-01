@@ -51,11 +51,17 @@ If you provide us with your credit card information, the information is encrypte
 # SECTION 7 - COOKIES
 
  Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+ 
  _session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+ 
  _shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+ 
  _shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+ 
 cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+
  _secure_session_id, unique token, sessional
+ 
  storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
 
@@ -71,6 +77,9 @@ If our store is acquired or merged with another company, your information may be
 ## QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at scott@brilliant.tech or by mail at
+
+```
 Brilliant
 [Re: Privacy Compliance Officer]
 241A S. San Mateo Drive San Mateo California US 94401
+```
