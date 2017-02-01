@@ -12,9 +12,11 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at scott@brilliant.tech or mailing us at:
+```
 Brilliant
 241A S. San Mateo Drive 
 San Mateo California US 94401
+```
 
 # SECTION 3 - DISCLOSURE
 
